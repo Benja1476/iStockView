@@ -28,7 +28,7 @@
 
 ## 📬 ติดต่อ
 📧 benjaja60@gmail.com  
-🌐 [iStockView Landing Page](./index.html)
+
 
 ---
 
