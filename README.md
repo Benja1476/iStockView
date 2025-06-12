@@ -1,7 +1,7 @@
 # iStockView - Power BI Inventory Template
 
-**iStockView** คือ Template สำหรับวิเคราะห์ทุนจมสินค้าในคลัง (Inventory) ด้วย Power BI  
-ครอบคลุมการวิเคราะห์ ABC/FSN, Dead Stock, Turnover, DOI และคำแนะนำการเคลียร์ทุนจมอัตโนมัติผ่าน DAX
+**iStockView** AI Strategic BI Template" สำหรับ Power BI
+ที่ช่วยวิเคราะห์คลังสินค้าแบบมืออาชีพ พร้อมระบบแนะนำการจัดการอัตโนมัติ 
 
 ## ✅ คุณสมบัติเด่น
 - **Dashboard Overview:** สรุปทุนจม, turnover, และสินค้าควรเคลียร์
