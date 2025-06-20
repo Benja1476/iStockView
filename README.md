@@ -18,10 +18,10 @@
 
 ## 🖼️ Dashboard Preview
 
-![Insight to Action Dashboard](./1000049772.png)
+![Insight to Action Dashboard](./1000049774.png)
 > *แสดงข้อมูล Inventory Health, KPI และ Strategic Action*
 
-![Risk & Opportunity Dashboard](./1000049773.png)
+![Risk & Opportunity Dashboard](./1000049775.png)
 > *แสดงทุนจม, โอกาสในการกู้คืน, และคลังที่มีความเสี่ยง*
 
 ---
